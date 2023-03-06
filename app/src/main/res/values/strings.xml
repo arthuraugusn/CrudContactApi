@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crud Contact Api</string>
+    <string name="title_activity_cadastrar_contato">CadastrarContato</string>
+</resources>
